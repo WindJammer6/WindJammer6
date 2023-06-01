@@ -5,3 +5,8 @@ Answers can copied from online. To prove that I did them myself with understandi
 
 **My LeetCode profile:**  
 https://leetcode.com/WindJammer6/
+
+<br>
+
+## List of LeetCode Questions solved
+(note to self: draw table here similar to the one in Brandon's competitive programming repo)
