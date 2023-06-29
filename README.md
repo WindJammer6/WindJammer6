@@ -11,4 +11,4 @@ https://leetcode.com/WindJammer6/
 <br>
 
 ## List of LeetCode Questions solved
-(note to self: draw table here similar to the one in Brandon's competitive programming repo)
+(note to self: draw table here similar to the one in Brandon's competitive programming repo, talk about the leetcode python's starting template)
