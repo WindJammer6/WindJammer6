@@ -28,7 +28,7 @@
 | **Categories** | | | | |
 |--------|:------:|:------:|:------:|:------:|
 | **For Public** | [13.-Common-Data-Structure-Implementations-Python](https://github.com/WindJammer6/13.-Common-Data-Structure-Implementations-Python) |
-| **Leetcode** | 
+| **Leetcode** | [14.-My-Leetcode-Solutions](https://github.com/WindJammer6/14.-My-Leetcode-Solutions) |
 | **Data Analysis (Personal Projects)** | [9.-Employee-Exit-Data-Analysis-Python](https://github.com/WindJammer6/9.-Employee-Exit-Data-Analysis-Python) | [8.-Star-Wars-Data-Analysis-Python](https://github.com/WindJammer6/8.-Star-Wars-Data-Analysis-Python) |
 | **Games (Personal Projects)** | [3.-Hangman-Game-Python](https://github.com/WindJammer6/3.-Hangman-Game-Python) | [2.-Tic-Tac-Toe-Game-Python](https://github.com/WindJammer6/2.-Tic-Tac-Toe-Game-Python) | [1.-Rock-Paper-Scissors-Game-Python](https://github.com/WindJammer6/1.-Rock-Paper-Scissors-Game-Python) |
 | **Others (Personal Projects)** | [11.-Banking-System-OOP-Python](https://github.com/WindJammer6/11.-Banking-System-OOP-Python) | [6.-Countdown-Alarm-Clock-with-GUI-Python](https://github.com/WindJammer6/6.-Countdown-Alarm-Clock-with-GUI-Python) | [5.-Alarm-Clock-Python](https://github.com/WindJammer6/5.-Alarm-Clock-Python) | [4.-Calculator-Python](https://github.com/WindJammer6/4.-Calculator-Python) |
