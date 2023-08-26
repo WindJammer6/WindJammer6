@@ -4,7 +4,7 @@
 
 **About me:**
 
-+ 🏫 Currently an undergraduate studying at [Singapore University of Technology and Design (SUTD)](https://sutd.edu.sg/)
++ 🏫 I am an undergraduate studying at [Singapore University of Technology and Design (SUTD)](https://sutd.edu.sg/)
 
 + :dart: Currently exploring the realm of Computer Science and its various areas
 
