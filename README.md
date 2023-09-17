@@ -10,9 +10,9 @@
 
 <br>
 
-**Programming Languages used:**
+**Programming Languages used (in order of proficiency from left to right):**
 
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
 <br>
 
