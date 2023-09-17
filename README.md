@@ -2,6 +2,10 @@
   <img src="https://clipart-library.com/img1/1754071.gif">
 </p>
 
+-----
+
+<br>
+
 **About me:**
 
 + 🏫 An undergraduate studying at [Singapore University of Technology and Design (SUTD)](https://sutd.edu.sg/)
@@ -9,6 +13,8 @@
 + :dart: Currently exploring the realm of Computer Science and its various areas
 
 <br>
+
+### My Tech Stack:
 
 **Programming Languages used (in order of proficiency from left to right):**
 
@@ -22,7 +28,7 @@
 
 <br>
 
-**[Github](https://github.com/WindJammer6) and [LeetCode](https://leetcode.com/WindJammer6/) stats:**
+### [Github](https://github.com/WindJammer6) and [LeetCode](https://leetcode.com/WindJammer6/) stats:
 <p align="center">
   <img src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WindJammer6&theme=github>
   <img src=https://leetcard.jacoblin.cool/WindJammer6?width=700&animation=false>
@@ -30,7 +36,7 @@
 
 <br>
 
-**[Repositories Directory](https://github.com/WindJammer6?tab=repositories):**
+### [Repositories Directory](https://github.com/WindJammer6?tab=repositories):
 | **For Public** | **Leetcode**  | **Data Analysis (Personal Projects)** | **Games (Personal Projects)** | **Others (Personal Projects)** | **Learning Journeys** |
 |:------:|:------:|:------:|:------:|:------:|:------:|
 | [`13.-Common-Data-Structure-Implementations-Python`](https://github.com/WindJammer6/13.-Common-Data-Structure-Implementations-Python) | [`14.-My-Leetcode-Solutions`](https://github.com/WindJammer6/14.-My-Leetcode-Solutions) | [`8.-Star-Wars-Data-Analysis-Python`](https://github.com/WindJammer6/8.-Star-Wars-Data-Analysis-Python) | [`1.-Rock-Paper-Scissors-Game-Python`](https://github.com/WindJammer6/1.-Rock-Paper-Scissors-Game-Python) | [`4.-Calculator-Python`](https://github.com/WindJammer6/4.-Calculator-Python) | [`7.-NumPy-Pandas-Matplotlib-Learning-and-Practice-Python`](https://github.com/WindJammer6/7.-NumPy-Pandas-Matplotlib-Learning-and-Practice-Python) |
