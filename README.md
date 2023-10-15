@@ -22,7 +22,7 @@
 
 <br>
 
-**Frameworks experience:**  
+**Frameworks used:**  
 *Expert proficiency:*  
 
 <br>
