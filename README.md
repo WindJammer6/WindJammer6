@@ -14,17 +14,25 @@
 
 <br>
 
-### My Tech Stack:
+### My Technology Stack:
 
-**Programming Languages used (in order of proficiency from left to right):**
+**Programming languages used:**
 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
 <br>
 
 **Frameworks experience:**  
+*Expert proficiency:*  
 
-[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+<br>
+
+*Intermediate proficiency:* 
+
+<br>
+
+*Beginner proficiency:*  
+[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev) <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
 
 <br>
 
