@@ -32,7 +32,7 @@
 <br>
 
 *Beginner proficiency:*  
-[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev) <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev) <img src="https://tse4.mm.bing.net/th?id=OIP.TZIt0IpYp3NmLBQOmCwwcAAAAA&pid=Api&P=0&h=180" width="50" height="50"> <img src="https://tse1.explicit.bing.net/th?id=OIP.TacHS_qW2tyVFKBjCFq-VwHaHa&pid=Api&P=0&h=180" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev) <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev) <img src="https://tse4.mm.bing.net/th?id=OIP.TZIt0IpYp3NmLBQOmCwwcAAAAA&pid=Api&P=0&h=180" width="50" height="50"> <img src="https://tse1.explicit.bing.net/th?id=OIP.TacHS_qW2tyVFKBjCFq-VwHaHa&pid=Api&P=0&h=180" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
 
 <br>
 
