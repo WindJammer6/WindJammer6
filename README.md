@@ -23,6 +23,14 @@
 <br>
 
 **Frameworks used:**  
+Python frameworks:  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=matplotlib) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tkinter) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=streamlit)
+
+ tkinter,unity,streamlit,firebase,ai,ps)
+
+C# frameworks:  
+
+Others:  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,tkinter,unity,streamlit,firebase,ai,ps) <img src="https://tse4.mm.bing.net/th?id=OIP.TZIt0IpYp3NmLBQOmCwwcAAAAA&pid=Api&P=0&h=180" width="50" height="50"> <img src="https://tse1.explicit.bing.net/th?id=OIP.TacHS_qW2tyVFKBjCFq-VwHaHa&pid=Api&P=0&h=180" width="50" height="50"> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=blender,figma,zapier) 
 
 <br>
