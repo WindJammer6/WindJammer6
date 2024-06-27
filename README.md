@@ -33,7 +33,7 @@ CADDing frameworks:
 <img src="https://tse4.mm.bing.net/th?id=OIP.TZIt0IpYp3NmLBQOmCwwcAAAAA&pid=Api&P=0&h=180" width="50" height="50"> <img src="https://tse1.explicit.bing.net/th?id=OIP.TacHS_qW2tyVFKBjCFq-VwHaHa&pid=Api&P=0&h=180" width="50" height="50"> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=blender) 
 
 Others:  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ai) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ps) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=canva) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma) <img src="https://cdn.freebiesupply.com/logos/large/2x/zapier-logo-png-transparent.png" width="50" height="50"> 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ai) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ps) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=canva) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma) <img src="https://cdn.freebiesupply.com/logos/large/2x/zapier-logo-png-transparent.png" width="50" height="50"> 
 
 <br>
 
