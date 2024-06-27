@@ -24,7 +24,7 @@
 
 **Frameworks used:**  
 Python frameworks:  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=matplotlib) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tkinter) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=streamlit)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=matplotlib) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=streamlit)
 
 C# frameworks:  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=unity)
@@ -33,7 +33,7 @@ CADDing frameworks:
 <img src="https://tse4.mm.bing.net/th?id=OIP.TZIt0IpYp3NmLBQOmCwwcAAAAA&pid=Api&P=0&h=180" width="50" height="50"> <img src="https://tse1.explicit.bing.net/th?id=OIP.TacHS_qW2tyVFKBjCFq-VwHaHa&pid=Api&P=0&h=180" width="50" height="50"> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=blender) 
 
 Others:  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ai) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ps) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zapier) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=canva)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ai) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ps) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zapier) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=canva) <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F274108%2Fzapier&psig=AOvVaw1v7bytQKLBqSWMcIDQ6Mww&ust=1719572419914000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiHi8zQ-4YDFQAAAAAdAAAAABAE" width="50" height="50"> 
 
 <br>
 
