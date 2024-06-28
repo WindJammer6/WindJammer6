@@ -24,7 +24,7 @@
 
 **Frameworks used:**  
 Python frameworks:  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=matplotlib) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=streamlit) tkinter here
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=matplotlib) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=streamlit)  <img src="https://play-lh.googleusercontent.com/98JfuGoUOxFK63NBn6Qd3TR1dSGcV_mJ17o_wRjPqWoKcDa7PyCG1K2C9jgH1Pb1N6Gj" width="50" height="50"> 
 
 C# frameworks:  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=unity)
@@ -36,7 +36,7 @@ Others:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ai) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ps) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=canva) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma) <img src="https://cdn.freebiesupply.com/logos/large/2x/zapier-logo-png-transparent.png" width="50" height="50"> 
 
 IDE used:  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode) jupyter here
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50" height="50"> 
 
 <br>
 
