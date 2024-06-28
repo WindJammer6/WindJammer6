@@ -36,7 +36,7 @@ Others:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ai) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ps) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=canva) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma) <img src="https://cdn.freebiesupply.com/logos/large/2x/zapier-logo-png-transparent.png" width="50" height="50"> 
 
 IDE used:  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jupyter)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode) jupyter here
 
 <br>
 
