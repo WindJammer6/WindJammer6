@@ -52,7 +52,7 @@ IDEs used:
 </picture>
 
 <p align="center">
-  <img src=https://leetcard.jacoblin.cool/WindJammer6?width=700&animation=false>
+  <img src=https://leetcard.jacoblin.cool/WindJammer6?border=0&width=700&animation=false>
 </p>
 
 <br>
