@@ -16,7 +16,13 @@
 
 ### My Technology Stack:
 
-**Programming languages used:**
+**Programming languages used:**  
+<picture>
+  <source   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=WindJammer6&show_icons=true&locale=en&layout=compact&theme=dark&hide=HTML&hide_border=true&card_width=700"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WindJammer6&show_icons=true&locale=en&layout=compact&hide_border=true%card_width=700" />
+</picture>
 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
