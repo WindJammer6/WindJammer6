@@ -51,13 +51,6 @@ IDEs used:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WindJammer6&theme=dracula) 
 
-<picture>
-  <source   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=WindJammer6&show_icons=true&locale=en&layout=compact&theme=dark&hide=HTML&hide_border=true&card_width=700"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WindJammer6&show_icons=true&locale=en&layout=compact&hide_border=true%card_width=700" />
-</picture>
-
 <p align="center">
   <img src=https://leetcard.jacoblin.cool/WindJammer6?border=0&width=700&animation=false>
 </p>
