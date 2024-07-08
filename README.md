@@ -47,6 +47,13 @@ IDEs used:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindJammer6"/>
 </p>
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WindJammer6&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WindJammer6&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WindJammer6&theme=dracula)
+
 <br>
 
 ### [Repositories Directory](https://github.com/WindJammer6?tab=repositories):
