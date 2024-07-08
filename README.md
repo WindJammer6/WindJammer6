@@ -46,7 +46,7 @@ IDEs used:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WindJammer6&theme=dracula) 
 
-<img src=https://leetcard.jacoblin.cool/WindJammer6?width=700&animation=false>
+<imgsrc=https://leetcard.jacoblin.cool/WindJammer6?width=700&animation=false>
 
 <br>
 
