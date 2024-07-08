@@ -45,10 +45,10 @@ IDEs used:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WindJammer6&theme=dracula) 
 
 <picture>
-  <source   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=WindJammer6&show_icons=true&locale=en&layout=compact&theme=dark&hide=HTML,CSS,SCSS,Ruby,Jupyter%20Notebook"
+  <source   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=WindJammer6&show_icons=true&locale=en&layout=compact&theme=dark&hide=HTML&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WindJammer6&show_icons=true&locale=en&layout=compact&hide=HTML,CSS,SCSS,Ruby,Jupyter%20Notebook" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WindJammer6&show_icons=true&locale=en&layout=compact&hide_border=true" />
 </picture>
 
 <p align="center">
