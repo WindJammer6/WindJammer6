@@ -48,7 +48,7 @@ IDEs used:
   <source   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=WindJammer6&show_icons=true&locale=en&layout=compact&theme=dark&hide=HTML,CSS,SCSS,Ruby,Jupyter%20Notebook"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennethjmyers&show_icons=true&locale=en&layout=compact&hide=HTML,CSS,SCSS,Ruby,Jupyter%20Notebook" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WindJammer6&show_icons=true&locale=en&layout=compact&hide=HTML,CSS,SCSS,Ruby,Jupyter%20Notebook" />
 </picture>
 
 <p align="center">
