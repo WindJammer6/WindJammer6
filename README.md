@@ -41,18 +41,13 @@ IDEs used:
 <br>
 
 ### [Github](https://github.com/WindJammer6) and [LeetCode](https://leetcode.com/WindJammer6/) stats:
-<p align="center">
-  <img src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WindJammer6&theme=github>
-  <img src=https://leetcard.jacoblin.cool/WindJammer6?width=700&animation=false>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindJammer6&theme=dracula"/>
-</p>
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WindJammer6&theme=dracula) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WindJammer6&theme=dracula) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WindJammer6&theme=onedark)
+<img src=https://leetcard.jacoblin.cool/WindJammer6?width=700&animation=false>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WindJammer6&theme=dracula)
 
 <br>
 
