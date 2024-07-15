@@ -49,9 +49,8 @@ IDEs used:
 
 ### [Github](https://github.com/WindJammer6) and [LeetCode](https://leetcode.com/WindJammer6/) stats:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WindJammer6&theme=dracula) 
-
 <p align="center">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WindJammer6&theme=dracula) 
   <img src=https://leetcard.jacoblin.cool/WindJammer6?border=0&width=700&animation=false>
 </p>
 
