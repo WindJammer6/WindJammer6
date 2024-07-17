@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WindJammer6&show_icons=true&locale=en&layout=compact&hide_border=true%card_width=700" />
 </picture>
 
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs) [![My Skills](https://skillicons.dev/icons?i=sql)](https://skillicons.dev)
 
 <br>
 
@@ -36,11 +36,14 @@ Python frameworks:
 C# frameworks:  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=unity)
 
+Relational (SQL) Databases/Non-relational (NoSQL) Databases frameworks:  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase)
+
 CADDing frameworks:  
 <img src="https://tse4.mm.bing.net/th?id=OIP.TZIt0IpYp3NmLBQOmCwwcAAAAA&pid=Api&P=0&h=180" width="50" height="50"> <img src="https://tse1.explicit.bing.net/th?id=OIP.TacHS_qW2tyVFKBjCFq-VwHaHa&pid=Api&P=0&h=180" width="50" height="50"> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=blender) 
 
 Others:  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ai) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ps) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=canva) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma) <img src="https://cdn.freebiesupply.com/logos/large/2x/zapier-logo-png-transparent.png" width="50" height="50"> 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ai) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ps) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=canva) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma) <img src="https://cdn.freebiesupply.com/logos/large/2x/zapier-logo-png-transparent.png" width="50" height="50"> 
 
 IDEs used:  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50" height="50"> 
