@@ -31,7 +31,7 @@
 
 **Frameworks used:**  
 Python frameworks:  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=matplotlib) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=streamlit)  <img src="https://play-lh.googleusercontent.com/98JfuGoUOxFK63NBn6Qd3TR1dSGcV_mJ17o_wRjPqWoKcDa7PyCG1K2C9jgH1Pb1N6Gj" width="50" height="50"> 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=matplotlib) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=streamlit)  <img src="https://play-lh.googleusercontent.com/98JfuGoUOxFK63NBn6Qd3TR1dSGcV_mJ17o_wRjPqWoKcDa7PyCG1K2C9jgH1Pb1N6Gj" width="50" height="50"> <img src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo-8.png" width="50" height="50">
 
 C# frameworks:  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=unity)
