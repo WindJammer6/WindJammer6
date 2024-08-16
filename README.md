@@ -49,7 +49,7 @@ IDEs used:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50" height="50"> 
 
 Deployment platforms:  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vercel) and streamlit cloud, itch.io
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vercel) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=streamlit) itch.io
 
 <br>
 
