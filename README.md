@@ -44,8 +44,9 @@ CADDing frameworks:
 
 Hardware:  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino)
+
 Others:  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt) <img src="https://images-websitehunt.s3.amazonaws.com/website/47308b29-54f5-4e48-a739-573a26f9a414.png" width="50" height="50"> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ai) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ps) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=canva) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino) <img src="https://cdn.freebiesupply.com/logos/large/2x/zapier-logo-png-transparent.png" width="50" height="50"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50">
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt) <img src="https://images-websitehunt.s3.amazonaws.com/website/47308b29-54f5-4e48-a739-573a26f9a414.png" width="50" height="50"> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ai) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ps) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=canva) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma) <img src="https://cdn.freebiesupply.com/logos/large/2x/zapier-logo-png-transparent.png" width="50" height="50"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50">
 
 IDEs used:  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50" height="50"> 
