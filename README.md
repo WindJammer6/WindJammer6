@@ -11,6 +11,7 @@
 + 🏫 An undergraduate studying at [Singapore University of Technology and Design (SUTD)](https://sutd.edu.sg/)
 
 + :dart: Currently exploring the realm of Computer Science and its various areas
++ My Portfolio: https://windjammer6.github.io/portfolio/
 
 <br>
 
