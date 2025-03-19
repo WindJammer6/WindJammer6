@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WindJammer6&show_icons=true&locale=en&layout=compact&hide_border=true%card_width=700" />
 </picture>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs) <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/85be1fac-45e8-4f67-88d0-cc3d042fbd01_935x935.png" width="50" height="50"> 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs) <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/85be1fac-45e8-4f67-88d0-cc3d042fbd01_935x935.png" width="50" height="50"> 
 
 <br>
 
