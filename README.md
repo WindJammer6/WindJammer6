@@ -37,6 +37,9 @@ Python frameworks:
 C# frameworks:  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=unity)
 
+JavaScript frameworks:
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=express) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=socketio)
+
 Relational (SQL) Databases/Non-relational (NoSQL) Databases frameworks:  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase)
 
