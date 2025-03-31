@@ -53,7 +53,7 @@ IDEs used:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50" height="50"> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio)
 
 Deployment platforms:  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vercel) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=streamlit) <img src="https://tse2.mm.bing.net/th?id=OIP.HFIC8HxZ7to4l7-b8Dj5mgHaHA&pid=Api&P=0&h=180" width="50" height="50"> 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vercel) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=streamlit) <img src="https://tse2.mm.bing.net/th?id=OIP.HFIC8HxZ7to4l7-b8Dj5mgHaHA&pid=Api&P=0&h=180" width="50" height="50"> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=render)
 
 <br>
 
