@@ -11,7 +11,7 @@
 + 🏫 An undergraduate studying at [Singapore University of Technology and Design (SUTD)](https://sutd.edu.sg/)
 + :dart: Currently exploring the realm of Computer Science and its various areas
 + 📋: My Portfolio: https://windjammer6.github.io/portfolio/
-+ Especially interested in [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning). Funniest thing I've learnt from it is:
++ :robot: Especially interested in [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning). Funniest thing I've learnt from it is:
   ```
   Life is one big training set
   - D. Silver 2015
