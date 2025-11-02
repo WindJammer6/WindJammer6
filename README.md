@@ -11,7 +11,7 @@
 + 🏫 An undergraduate studying at [Singapore University of Technology and Design (SUTD)](https://sutd.edu.sg/)
 + :dart: Currently exploring the realm of Computer Science and its various areas
 + 📋: My Portfolio: https://windjammer6.github.io/portfolio/
-+ :robot: Especially interested in [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning), with the occasional Large Language Model (LLM) application (I'm not a LLM engineer unfortunately).
++ :robot: Especially interested in [Reinforcement Learning (RL)](https://en.wikipedia.org/wiki/Reinforcement_learning), with the occasional [Large Language Model (LLM)](https://en.wikipedia.org/wiki/Large_language_model) application (I'm not a LLM engineer unfortunately).
   ```
   Life is one big training set
   - D. Silver 2015
